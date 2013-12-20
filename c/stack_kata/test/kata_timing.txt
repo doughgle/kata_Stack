@@ -1,0 +1,2 @@
+2:56 First (very limited) implementation
+3:28 Complete implementation of Stack including peek. The size of the stack is statically limited at compile time though!
